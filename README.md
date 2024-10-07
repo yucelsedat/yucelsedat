@@ -131,17 +131,4 @@
     <a href="https://youtu.be/jQjjqEjZK58" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
-### 🎓 Example Courses and Tutorials:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=843nec-IvW0
-" target="_blank"><img src="http://img.youtube.com/vi/843nec-IvW0/0.jpg" 
-alt="Next.js 13 Full Course" width="240" height="180" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=1S8SBDhA7HA
-" target="_blank"><img src="http://img.youtube.com/vi/1S8SBDhA7HA/0.jpg" 
-alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=gieEQFIfgYc
-" target="_blank"><img src="http://img.youtube.com/vi/gieEQFIfgYc/0.jpg" 
-alt="TypeScript Full Course" width="240" height="180" /></a>
-
-[youtube]: https://www.youtube.com/@DaveGrayTeachesCode
-[website]: https://www.davegray.codes
-[discord]: https://discord.gg/neKghyefqh
