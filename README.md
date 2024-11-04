@@ -7,8 +7,7 @@
 ## I'm a Developer
 
 - 👨‍🏫 I enjoy teaching coding skills as well as helping students & fellow developers
-- 🌱 I'm currently growing my [Youtube Channel][youtube]
-- 👨‍💻 Read my articles & tutorials at [davegray.codes][website]
+- 👨‍💻 Read my articles & tutorials at [sedatyucel.vercel.com]
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
