@@ -4,7 +4,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.davegray.codes&style=for-the-badge&label=davegray.codes)
 [![Dave's Discord](https://img.shields.io/discord/809820980285276210?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)][discord]
 
-## I'm a Developer, Instructor, and Content Creator
+## I'm a Developer
 
 - 👨‍🏫 I enjoy teaching coding skills as well as helping students & fellow developers
 - 🌱 I'm currently growing my [Youtube Channel][youtube]
