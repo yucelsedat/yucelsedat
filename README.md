@@ -5,7 +5,7 @@
 ## I'm a Developer
 
 - 👨‍🏫 I enjoy teaching coding skills as well as helping students & fellow developers
-- 👨‍💻 Read my articles & tutorials at [sedatyucel.vercel.com]
+- 👨‍💻 Read my articles & tutorials at [sedatyucel-codes.vercel.app](https://sedatyucel-codes.vercel.app)
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
