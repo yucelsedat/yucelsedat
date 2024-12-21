@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm Sedat Yucel
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fsedatyucel-codes.vercel.app&style=for-the-badge&label=sedatyucel-codes)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fsedatyucel-codes.vercel.app&style=for-the-badge&label=sedatyucel-codes)(https://sedatyucel-codes.vercel.app)
 
 ## I'm a Developer
 
