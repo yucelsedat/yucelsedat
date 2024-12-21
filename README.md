@@ -15,19 +15,25 @@
 - ❓ [My Discord][discord] is a great place to ask questions
 - ☕ [Sponsor My Work](https://github.com/sponsors/gitdagray) if you like what I do. I appreciate the support! 
 
+<!-- 
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+<!-- 
+
 - [React Native for Beginners tutorial](https://www.youtube.com/watch?v=Hp9sTsiTZ_I)
 - [BIG Mistake on Date Time Values ⏰😱](https://www.youtube.com/watch?v=0oorUIItZpo)
 - [localeCompare sorts better! 🔥](https://www.youtube.com/watch?v=TK8BXrJpLiY)
 - [BEST Way to Get a Dev Job 🏆](https://www.youtube.com/watch?v=d6rlBVDVyTo)
 - [Optimize Your Code!  🔥 How I Optimized Drag n Drop Form Inputs](https://www.youtube.com/watch?v=GvA2VVreK_g)
+-->
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+<!-- 
+
 - [usePolling: Custom Hook for Auto-Fetching in Next.js](https://www.davegray.codes/posts/usepolling-custom-hook-for-auto-fetching-in-nextjs)
 - [React Drag and Drop: The Missing Example](https://www.davegray.codes/posts/missing-example-for-react-drag-n-drop)
 - [Bye Copilot - How to Create a Local AI Coding Assistant for Free](https://www.davegray.codes/posts/bye-copilot-how-to-create-a-local-ai-coding-assistant-for-free)
