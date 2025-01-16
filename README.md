@@ -10,11 +10,11 @@
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
 ### 💻 Useful Links
-
+<!-- 
 - 📚 [FREE Web Dev Roadmap](https://courses.davegray.codes/) with 70+ Hours of tutorials
 - ❓ [My Discord][discord] is a great place to ask questions
 - ☕ [Sponsor My Work](https://github.com/sponsors/gitdagray) if you like what I do. I appreciate the support! 
-
+-->
 <!-- 
 ### 📺 Latest Youtube Videos
 
@@ -44,6 +44,8 @@
 ### 📬 Connect with me:
                   
 <p align="left">
+<!-- BLOG:END -->
+  <!-- 
     <a href="https://www.dev.to/gitdagray" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
@@ -51,13 +53,15 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
-    <a href="https://www.github.com/gitdagray" target="_blank" rel="noreferrer">
+  -->
+    <a href="https://www.github.com/yucelsedat" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
+  <!-- 
     <a href="https://yesdavidgray.hashnode.dev" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./img/hashnode-dark.svg" />
@@ -65,13 +69,15 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/davidagray" target="_blank" rel="noreferrer">
+  -->
+    <a href="https://www.linkedin.com/in/sedatyücel" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
+  <!-- 
     <a href="http://www.medium.com/davegray_86804" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
@@ -79,6 +85,8 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
+  -->
+  <!-- 
     <a href="https://www.davegray.codes/feed.xml" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./img/rss-dark.svg" />
@@ -86,13 +94,15 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
-    <a href="https://www.x.com/yesdavidgray" target="_blank" rel="noreferrer">
+  -->
+    <a href="https://www.x.com/sedatsyucel" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
+  <!-- 
     <a href="https://www.youtube.com/@DaveGrayTeachesCode" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./img/youtube-dark.svg" />
@@ -100,6 +110,8 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
+  -->
+  <!-- 
     <a href="https://discord.gg/neKghyefqh" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./img/discord-dark.svg" />
@@ -107,31 +119,42 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
+  -->
 </p>
 
 ---
 
-### 💻 Links to Courses & Tutorials:
+### 💻 My core stack:
 
 <p align="left">
-    <a href="https://youtu.be/mJgBOIoGihA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://youtu.be/n4R2E7O-Ngo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://youtu.be/EfAl9bwzVZk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://youtu.be/gieEQFIfgYc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-    <a href="https://youtu.be/CvUiKWv2-C0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://youtu.be/lCxcTsOHrjo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-    <a href="https://youtu.be/SsITROMWhnM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-    <a href="https://youtu.be/RVFAyFWO4go" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://youtu.be/NqzdVN2tyvQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-    <a href="https://youtu.be/843nec-IvW0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-    <a href="https://youtu.be/f2EqECiTBL8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-    <a href="https://youtu.be/jivyItmsu18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-    <a href="https://youtu.be/juNVinepwKA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-    <a href="https://youtu.be/-PdjUx9JZ2E" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  <!--
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+  -->
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+    <!-- BLOG:END -->
+    <!--
+    <a href="https://youtu.be/juNVinepwKA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a> 
+    -->
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+    <!--
     <a href="https://youtu.be/l134cBAJCuc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
-    <a href="https://youtu.be/WFNtmhwU5HU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+    -->
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+    <!--
     <a href="https://youtu.be/H2EJuAcrZYU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    
     <a href="https://youtu.be/jQjjqEjZK58" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+     -->
 </p>
 
 
